@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joan Alcaraz Rego</h1>
+<h1 align="center">Hi 👋, I'm Joan Alcaraz</h1>
 <h3 align="center">A passionate data scientist from Spain</h3>
 
 - 🌱 I’m currently learning **SQL and KubeFlow**
